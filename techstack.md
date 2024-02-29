@@ -3,47 +3,47 @@
 ## Tech Stack
 ramzimalhas/formbricks is built on the following main stack:
 
-- [Stripe](https://stripe.com) – Payment Services
-- [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Swift](https://developer.apple.com/swift/) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- [ESLint](http://eslint.org/) – Code Review
+- [Swift](https://developer.apple.com/swift/) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
 - [Preact](http://developit.github.io/preact/) – Javascript UI Libraries
-- [OAuth2](https://oauth.net/2/) – User Management and Authentication
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [Lottie](http://airbnb.design/lottie/) – Mobile Prototyping & Interaction Design Tools
-- [Prettier](https://prettier.io/) – Code Review
-- [Vercel](https://vercel.com/) – Static Web Hosting
-- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Storybook](https://storybook.js.org/) – JavaScript Framework Components
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
-- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
+- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - [Zustand](https://github.com/react-spring/zustand) – State Management Library
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
-- [React Email](https://react.email/) – Open Source Email Templates
-- [Formbricks](https://formbricks.com/) – Survey Widget
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- [Babel](http://babeljs.io/) – JavaScript Compilers
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Prettier](https://prettier.io/) – Code Review
+- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
+- [Stripe](https://stripe.com) – Payment Services
+- [Vercel](https://vercel.com/) – Static Web Hosting
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Formbricks](https://formbricks.com/) – Survey Widget
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Lottie](http://airbnb.design/lottie/) – Mobile Prototyping & Interaction Design Tools
+- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- [OAuth2](https://oauth.net/2/) – User Management and Authentication
+- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- [React Email](https://react.email/) – Open Source Email Templates
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -53,47 +53,47 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ramzimalhas/formbricks is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/139/s01TMTGn.png' alt='Google App Engine'/> [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/4388/preact.png' alt='Preact'/> [Preact](http://developit.github.io/preact/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4507/oauth2-logo.png' alt='OAuth2'/> [OAuth2](https://oauth.net/2/) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/6445/lottie.png' alt='Lottie'/> [Lottie](http://airbnb.design/lottie/) – Mobile Prototyping & Interaction Design Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' alt='Vercel'/> [Vercel](https://vercel.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/9240/sOct-Txm_400x400.png' alt='Storybook'/> [Storybook](https://storybook.js.org/) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/9878/react-beautiful-dnd-logo.png' alt='react-beautiful-dnd'/> [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/11559/zustand.png' alt='Zustand'/> [Zustand](https://github.com/react-spring/zustand) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/48507/default_b6227d8a7d52bdbb43038d411ec0e05561529231.png' alt='React Email'/> [React Email](https://react.email/) – Open Source Email Templates
-- <img width='25' height='25' src='https://img.stackshare.io/service/102046/default_0719c49dc2806a2b35854d8716ee44bdb929cf7f.jpg' alt='Formbricks'/> [Formbricks](https://formbricks.com/) – Survey Widget
+- <img width='25' height='25' src='https://img.stackshare.io/service/9878/react-beautiful-dnd-logo.png' alt='react-beautiful-dnd'/> [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg' alt='Prisma'/> [Prisma](https://www.prisma.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/139/s01TMTGn.png' alt='Google App Engine'/> [Google App Engine](https://developers.google.com/appengine) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' alt='Vercel'/> [Vercel](https://vercel.com/) – Static Web Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/102046/default_0719c49dc2806a2b35854d8716ee44bdb929cf7f.jpg' alt='Formbricks'/> [Formbricks](https://formbricks.com/) – Survey Widget
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6445/lottie.png' alt='Lottie'/> [Lottie](http://airbnb.design/lottie/) – Mobile Prototyping & Interaction Design Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/4507/oauth2-logo.png' alt='OAuth2'/> [OAuth2](https://oauth.net/2/) – User Management and Authentication
+- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/48507/default_b6227d8a7d52bdbb43038d411ec0e05561529231.png' alt='React Email'/> [React Email](https://react.email/) – Open Source Email Templates
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -104,7 +104,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/formbricks](https://github.com/ramzimalhas/formbricks)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|01/23/24 <br/>Report generated|
+|111<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
